@@ -23,7 +23,7 @@
             courseDescription = "Understand key data structures and algorithms for solving complex problems.";
         } else if ("4".equals(courseId)) {
             courseName = "Machine Learning 101";
-            courseDescription = "Introduction to machine learning concepts and algorithms.";
+            courseDescription = "Introduction to machine learning concepts and ml algorithms.";
         } else {
             courseName = "Course Not Found";
             courseDescription = "The course you are looking for is not available.";
